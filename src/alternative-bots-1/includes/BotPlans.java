@@ -1,4 +1,4 @@
-package alternative_bots_3.includes;
+package alternative-bots-1.includes;
 
 import battlecode.common.Direction;
 import battlecode.common.MapLocation;

@@ -1,10 +1,10 @@
-package alternative_bots_3.bot;
+package alternative-bots-1.bot;
 
-import static alternative_bots_3.bot.Cache.*;
-import static alternative_bots_3.includes.GameConfig.*;
-import static alternative_bots_3.includes.ScoreConfig.*;
+import static alternative-bots-1.bot.Cache.*;
+import static alternative-bots-1.includes.GameConfig.*;
+import static alternative-bots-1.includes.ScoreConfig.*;
 
-import alternative_bots_3.includes.TowerPlans;
+import alternative-bots-1.includes.TowerPlans;
 import battlecode.common.Direction;
 import battlecode.common.GameActionException;
 import battlecode.common.MapInfo;

@@ -1,4 +1,4 @@
-package alternative_bots_3.bot;
+package alternative-bots-1.bot;
 
 import battlecode.common.GameActionException;
 import battlecode.common.MapInfo;
