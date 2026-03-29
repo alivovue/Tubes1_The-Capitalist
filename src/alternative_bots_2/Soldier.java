@@ -1,4 +1,4 @@
-package alternatif-bots-2;
+package alternative_bots_2;
 
 import battlecode.common.Direction;
 import battlecode.common.GameActionException;

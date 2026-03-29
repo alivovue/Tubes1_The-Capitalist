@@ -1,4 +1,4 @@
-package alternative-bots-1.includes;
+package alternative_bots_1.includes;
 
 public class ScoreConfig {
 // tower score configs

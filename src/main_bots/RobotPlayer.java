@@ -1,4 +1,4 @@
-package alternative_bots_1;
+package main_bots;
 
 import battlecode.common.*;
 

@@ -1,4 +1,4 @@
-package alternatif-bots-2;
+package alternative_bots_2;
 
 import battlecode.common.Clock;
 import battlecode.common.GameActionException;

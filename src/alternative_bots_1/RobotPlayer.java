@@ -1,15 +1,15 @@
-package alternative-bots-1;
+package alternative_bots_1;
 
-import static alternative-bots-1.bot.Cache.*;
-import static alternative-bots-1.bot.Mopper.*;
-import static alternative-bots-1.bot.Soldier.*;
-import static alternative-bots-1.bot.Splasher.*;
-import static alternative-bots-1.bot.Tower.*;
-import static alternative-bots-1.includes.GameConfig.*;
-import static alternative-bots-1.includes.ScoreConfig.*;
+import static alternative_bots_1.bot.Cache.*;
+import static alternative_bots_1.bot.Mopper.*;
+import static alternative_bots_1.bot.Soldier.*;
+import static alternative_bots_1.bot.Splasher.*;
+import static alternative_bots_1.bot.Tower.*;
+import static alternative_bots_1.includes.GameConfig.*;
+import static alternative_bots_1.includes.ScoreConfig.*;
 
-import alternative-bots-1.includes.BotPlans;
-import alternative-bots-1.includes.TowerPlans;
+import alternative_bots_1.includes.BotPlans;
+import alternative_bots_1.includes.TowerPlans;
 import battlecode.common.Clock;
 import battlecode.common.Direction;
 import battlecode.common.GameActionException;
